@@ -1,0 +1,12 @@
+
+folder_in: /home/ma/tst
+folder_out: /home/ma/out
+folder_ext: /home/ma/folder1
+folder_ext2: /home/ma/folder2
+folder_extract: /home/ma/folder_extract
+
+count: 5
+bs: 1M
+type: zip
+stat_file: /home/ma/stat.txt
+key_t: -tzip
